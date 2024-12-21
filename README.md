@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba!
 
-<!--
-**Sunrock14/Sunrock14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Çalışma Sıralaması
+public repolardaki eksiklikleri tamamla 
+DotnetCrudDDDTodoApp --> React & Angular projelerinde kullanmak için yaz
+React Basics
+MsSqlBasics
+python basics
+IssueTrackingApi --> Büyük ihtimalle tamamlamam
+Swift Basics
+Kotlin Basics
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## GitHub İstatistiklerim  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunrock14&show_icons=true&theme=radical)  
+
+## En Çok Kullandığım Diller  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunrock14&layout=compact&theme=radical)
